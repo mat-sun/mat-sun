@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=mat-sun)
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=mat-sun&show_icons=true&theme=radical" alt="mat-sun's GitHub stats" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-sun&layout=compact&theme=radical" alt="Top languages" />
+</p>
