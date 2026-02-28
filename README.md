@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=mat-sun&show_icons=true&theme=radical" alt="mat-sun's GitHub stats" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mat-sun&layout=compact&theme=radical" alt="Top languages" />
-</p>
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=mat-sun&show_icons=true&theme=transparent)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mat-sun)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/streak/?username=mat-sun)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api/wakatime/?username=mat-sun)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
